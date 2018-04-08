@@ -11,7 +11,7 @@ yarn global install gatsby-cli
 
 Download from GitHub:
 ```sh
-git clone 
+git clone https://github.com/DrUlrichAnders/DNE.git
 ```
 
 And run from your CLI:
