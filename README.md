@@ -6,7 +6,7 @@ This is a repository developed for teaching the class _Digital Network Economy_ 
 
 Make sure that you have the Gatsby CLI program installed:
 ```sh
-yarn global install gatsby-cli
+yarn global add gatsby-cli
 ```
 
 Download from GitHub:
