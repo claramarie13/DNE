@@ -16,6 +16,7 @@ git clone https://github.com/DrUlrichAnders/DNE.git
 
 Install packages:
 ```sh
+cd DNE
 yarn install
 ```
 
