@@ -1,4 +1,4 @@
-# DNE1
+# DNE
 
 This is a repository developed for teaching the class _Digital Network Economy_ at Cologne Business School.
 
