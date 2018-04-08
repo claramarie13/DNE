@@ -14,6 +14,11 @@ Download from GitHub:
 git clone https://github.com/DrUlrichAnders/DNE.git
 ```
 
+Install packages:
+```sh
+yarn install
+```
+
 And run from your CLI:
 ```sh
 gatsby develop
