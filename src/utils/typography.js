@@ -13,15 +13,19 @@ const typography = new Typography({
       styles: ['400'],
     },
     {
+      name: 'Open Sans',
+      styles: ['400'],
+    },
+    {
       name: 'Open Sans Condensed',
       styles: ['400'],
     },
   ],
   baseFontSize: '18px',
   baseLineHeight: 1.5,
-  headerFontFamily: ['Ubuntu', 'Helvetica Neue', 'Arial', 'sans-serif'],
+  headerFontFamily: ['Ubuntu', 'sans-serif'],
   headerWeight: 'normal',
-  bodyFontFamily: ['Roboto', 'Arial', 'Helvetica Neue', 'Georgia', 'serif'],
+  bodyFontFamily: ['Open Sans', 'sans-serif'],
 })
 
 export default typography
