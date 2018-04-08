@@ -144,8 +144,6 @@ i {
 }
 
 p,
-ul,
-ol,
 pre,
 pre[class*='language-'],
 table,
@@ -154,6 +152,8 @@ blockquote {
   margin-bottom: 1.5rem;
 }
 
+ul,
+ol,
 ul ul,
 ol ol,
 ul ol,
