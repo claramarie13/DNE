@@ -35,7 +35,6 @@ export const H2 = styled.h2`
 
 export const Header = styled.header`
   background: #8f8978;
-  background: #e20074;
   margin-bottom: 1.5rem;
   padding: 0.5rem 0;
   @media (min-width: 48em) {
