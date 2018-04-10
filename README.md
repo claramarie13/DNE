@@ -14,9 +14,13 @@ Download from GitHub:
 git clone https://github.com/DrUlrichAnders/DNE.git
 ```
 
-Install packages:
+Change directory:
 ```sh
 cd DNE
+```
+
+Install packages:
+```sh
 yarn install
 ```
 
