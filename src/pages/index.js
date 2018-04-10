@@ -26,6 +26,7 @@ const IndexPage = () => (
         The course is taught at{' '}
         <a href="https://cbs.de/">Cologne Business School</a>.
       </p>
+      <p>We are awesome!</p>
     </Section>
 
     <Hr />
