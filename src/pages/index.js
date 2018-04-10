@@ -42,44 +42,48 @@ const IndexPage = () => (
       <Img src={img01} alt="" />
       <h2>Story Telling</h2>
       <p>
-        "If we take a risk and show that we are human and vulnerable then that's
-        where the best stories lie."<br /> &mdash; Andrea Gibbs
+        »If we take a risk and show that we are human and vulnerable then that's
+        where the best stories lie.«<br /> &mdash; Andrea Gibbs
       </p>
       <p>
-        "Know your audience."<br /> &mdash; Matt Chan
+        »Know your audience.« <br /> &mdash; Matt Chan
       </p>
-      <p>"Hook'em early." &mdash; Garr Reynolds</p>
+      <p>"Hook'em early.« &mdash; Garr Reynolds</p>
       <p>
-        "Hold them [the audience] still for just a moment in life and have them
-        wonder."<br /> &mdash; Andrew Stanton
-      </p>
-      <p>
-        "Make a promise. This story leads somewhere that is worth your time."<br />{' '}
-        &mdash; Andrew Stanton
+        »Hold them [the audience] still for just a moment in life and have them
+        wonder.« <br /> &mdash; Andrew Stanton
       </p>
       <p>
-        "Make the audience put things together. Don't give them 4, give them 2 +
-        2."<br /> &mdash; Andrew Stanton
+        »Make a promise. This story leads somewhere that is worth your time.«{' '}
+        <br /> &mdash; Andrew Stanton
       </p>
       <p>
-        "You don't believe the message, if you don't believe the messenger."<br />{' '}
-        &mdash; Dr. Viet Etzold
+        »Make the audience put things together. Don't give them 4, give them 2 +
+        2.« <br /> &mdash; Andrew Stanton
       </p>
       <p>
-        "Overcoming bad things makes us happier than if these bad things would
-        have never happened."<br /> &mdash; Dr. Viet Etzold
+        »You don't believe the message, if you don't believe the messenger.«{' '}
+        <br /> &mdash; Dr. Viet Etzold
       </p>
       <p>
-        "We impose stories. They help experience reality in a way that makes
+        »Overcoming bad things makes us happier than if these bad things would
+        have never happened.« <br /> &mdash; Dr. Viet Etzold
+      </p>
+      <p>
+        »We impose stories. They help experience reality in a way that makes
         sense, that we can process, and that helps us cope. Stories are how we
-        live our lives."<br /> &mdash; Nick Morgan
+        live our lives.« <br /> &mdash; Nick Morgan
       </p>
       <p>
-        "You are not telling the story to change what happened. You're telling
-        the story to change you."<br /> &mdash; Donald Davis
+        »You are not telling the story to change what happened. You're telling
+        the story to change you.« <br /> &mdash; Donald Davis
       </p>
-      <p>"Story is a mystery box." &mdash; J.J. Abrams</p>
-      <p>"My story is the catalyst for imagination." &mdash; J.J. Abrams</p>
+      <p>
+        »Story is a mystery box.« <br /> &mdash; J.J. Abrams
+      </p>
+      <p>
+        »My story is the catalyst for imagination." <br /> &mdash; J.J. Abrams
+      </p>
     </Section>
 
     <Hr />
