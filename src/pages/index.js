@@ -287,6 +287,7 @@ const IndexPage = () => (
               EsLint, File Utils, Guides, npm, npm Intellisense, Sort lines,
               Prettier, vscode-styled-components.
             </li>
+            <li>any other editor of your liking</li>
           </ul>
         </Box>
       </Flex>
@@ -299,7 +300,7 @@ const IndexPage = () => (
       <h2>GitHub</h2>
       <p>
         The sources for this website are on{' '}
-        <a src="https://github.com/DrUlrichAnders/DNE" target="_blank">
+        <a href="https://github.com/DrUlrichAnders/DNE" target="_blank">
           GitHub | DrUlrichAnders/DNE
         </a>.
       </p>
