@@ -287,7 +287,7 @@ const IndexPage = () => (
               EsLint, File Utils, Guides, npm, npm Intellisense, Sort lines,
               Prettier, vscode-styled-components.
             </li>
-            <li>any other editor of your liking</li>
+            <li>or any other editor of your liking, e.g. Atom, Sublime, etc.</li>
           </ul>
         </Box>
       </Flex>
