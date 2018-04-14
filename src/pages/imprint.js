@@ -18,10 +18,11 @@ const ImprintPage = () => (
       </p>
       <h3>Credits</h3>
       <p>
-        Fotos from <a href="https://unsplash.com/">Unsplash</a> by:
+        Fotos from <a href="https://unsplash.com/">Unsplash</a>. Thanks to:
       </p>
       <ul>
         <li>Alex Kotliarsyi</li>
+        <li>Álvaro Serrano</li>
         <li>Clint Adair</li>
         <li>Dmitry Ratshny</li>
         <li>Guillaume Bolduc</li>

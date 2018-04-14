@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
     title: 'DNE1',
-    version: '1.0.0',
-    date: 'April 08, 2018',
+    version: '1.1.0',
+    date: 'April 14, 2018',
   },
   plugins: [
     'gatsby-image',
@@ -27,7 +27,21 @@ module.exports = {
     {
       resolve: `gatsby-transformer-remark`,
       options: {
-        plugins: [`gatsby-remark-prismjs`],
+        plugins: [
+          `gatsby-remark-prismjs`,
+          {
+            resolve: 'gatsby-remark-smartypants',
+            options: {
+              dashes: 'oldschool',
+            },
+          },
+          {
+            resolve: `gatsby-remark-images`,
+            options: {
+              maxWidth: 1200,
+            },
+          },
+        ],
       },
     },
   ],
