@@ -71,7 +71,7 @@ const IndexPage = () => (
       <p>
         »We impose stories. They help experience reality in a way that makes
         sense, that we can process, and that help us cope. Stories are how we
-        live our lives.« <br /> &mdash; Nick Morgan
+        live our lifes.« <br /> &mdash; Nick Morgan
       </p>
       <p>
         »You are not telling the story to change what happened. You're telling
