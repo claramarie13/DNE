@@ -70,7 +70,7 @@ const IndexPage = () => (
       </p>
       <p>
         »We impose stories. They help experience reality in a way that makes
-        sense, that we can process, and that helps us cope. Stories are how we
+        sense, that we can process, and that help us cope. Stories are how we
         live our lives.« <br /> &mdash; Nick Morgan
       </p>
       <p>
@@ -78,10 +78,10 @@ const IndexPage = () => (
         the story to change you.« <br /> &mdash; Donald Davis
       </p>
       <p>
-        »Story is a mystery box.« <br /> &mdash; J.J. Abrams
+        »A story is a mystery box.« <br /> &mdash; J.J. Abrams
       </p>
       <p>
-        »My story is the catalyst for imagination." <br /> &mdash; J.J. Abrams
+        »A story is the catalyst for imagination." <br /> &mdash; J.J. Abrams
       </p>
     </Section>
 
