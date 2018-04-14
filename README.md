@@ -1,6 +1,6 @@
 # DNE
 
-This is a repository developed for teaching the class _Digital Network Economy_ at Cologne Business School.
+This is a repository developed for teaching the class _Digital Network Economy_ at [Cologne Business School](https://cbs.de).
 
 ## Develop
 
