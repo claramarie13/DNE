@@ -16,6 +16,8 @@ import img05 from '../img/1200/05.jpg'
 import img07 from '../img/1200/07.jpg'
 import img08 from '../img/1200/08.jpg'
 import img09 from '../img/1200/09.jpg'
+import img12 from '../img/1200/12.jpg'
+import img14 from '../img/1200/14.jpg'
 
 const IndexPage = () => (
   <Container>
@@ -33,8 +35,108 @@ const IndexPage = () => (
     <Section>
       <Img src={img08} alt="" />
       <h2>The Future of Work</h2>
+      <p>
+        The more digitalized our world becomes, the more it is going to change.
+        Which jobs will still exist in the future, which are going to change and
+        which are plainly disappearing?
+      </p>
+      <p>
+        Will robotics, artificial intelligence and machine learning overall take
+        away jobs or will they actually overall help to create jobs?
+      </p>
+      <p>
+        Companies and work are certainly becoming more modular and
+        de-centralized? What skills will be required in a more digital world?
+      </p>
     </Section>
 
+    <Hr />
+
+    <Section>
+      <Img src={img12} alt="" />
+      <h2>Digital Skills</h2>
+      <Flex>
+        <Box width={[1, 1 / 2]} pr={[0, 1]}>
+          <ol>
+            <li>
+              <strong>IT-skills:</strong> programming, IT-infrastructure,
+              security
+            </li>
+            <li>
+              <strong>Integration skills:</strong> artificial intelligence,
+              robotics, external resources.
+            </li>
+            <li>
+              <strong>Planning skills:</strong> result-planning, budgeting,
+              resource planning, pitch decks
+            </li>
+          </ol>
+        </Box>
+        <Box width={[1, 1 / 2]} pl={[0, 1]}>
+          <ol start="7">
+            <li>
+              <strong>Marketing skills:</strong> presentation, video, story
+              telling, influencing, (personal) networking
+            </li>
+
+            <li>
+              <strong>Realisation skills:</strong> ownership, organisation,
+              project & team management, cost management, agile methodologies.
+            </li>
+            <li>
+              <strong>Data skills:</strong> APIs, data storing, data analysis,
+              statistics, data stories
+            </li>
+          </ol>
+        </Box>
+      </Flex>
+    </Section>
+
+    <Hr />
+
+    <Section>
+      <Img src={img04} alt="" />
+      <h2>Pitch Deck</h2>
+      <Flex>
+        <Box width={[1, 1 / 2]} pr={[0, 1]}>
+          <ol>
+            <li>Introduction</li>
+            <li>Pain points, Customer Benefit</li>
+            <li>Product / Service (idea)</li>
+            <li>Market Analysis & Competition</li>
+            <li>Traction & Proof-of-Concept </li>
+            <li>Financial Plan</li>
+          </ol>
+        </Box>
+        <Box width={[1, 1 / 2]} pl={[0, 1]}>
+          <ol start="7">
+            <li>Marketing Plan</li>
+            <li>Realisation & Go to market</li>
+            <li>Team & Skill Sets</li>
+            <li>Pitch & Funding</li>
+            <li>Summary</li>
+          </ol>
+        </Box>
+      </Flex>
+    </Section>
+
+    <Hr />
+
+    <Section>
+      <Img src={img14} alt="" />
+      <h2>The importance of video skills</h2>
+      <p>
+        There are more and more paid streams such as Spotify, Netflix or
+        podcasts. This means classical television or radio advertising will not
+        longer reach its audiency like in the past. Companies will need to move
+        into video messaging with good content to attract or inform its
+        customers.
+      </p>
+      <p>
+        Furthermore, the world is full of ideas and offers. If you have not the
+        means to reach a large audience, probably, no one will detect you.
+      </p>
+    </Section>
     <Hr />
 
     <Section>
@@ -83,34 +185,6 @@ const IndexPage = () => (
       <p>
         »A story is the catalyst for imagination." <br /> &mdash; J.J. Abrams
       </p>
-    </Section>
-
-    <Hr />
-
-    <Section>
-      <Img src={img04} alt="" />
-      <h2>Pitch Deck</h2>
-      <Flex>
-        <Box width={[1, 1 / 2]}>
-          <ol>
-            <li>Introduction</li>
-            <li>Pain points, Customer Benefit</li>
-            <li>Product / Service (idea)</li>
-            <li>Market Analysis & Competition</li>
-            <li>Traction & Proof-of-Concept </li>
-            <li>Financial Plan</li>
-          </ol>
-        </Box>
-        <Box width={[1, 1 / 2]}>
-          <ol start="7">
-            <li>Marketing Plan</li>
-            <li>Realisation & Go to market</li>
-            <li>Team & Skill Sets</li>
-            <li>Pitch & Funding</li>
-            <li>Summary</li>
-          </ol>
-        </Box>
-      </Flex>
     </Section>
 
     <Hr />
@@ -223,6 +297,13 @@ const IndexPage = () => (
     <Section>
       <Img src={img07} alt="" />
       <h2>GitHub</h2>
+      <p>
+        The sources for this website are on{' '}
+        <a src="https://github.com/DrUlrichAnders/DNE" target="_blank">
+          GitHub | DrUlrichAnders/DNE
+        </a>.
+      </p>
+      <p>Contributions from CBS students are most welcome.</p>
     </Section>
 
     <Hr />
@@ -230,6 +311,10 @@ const IndexPage = () => (
     <Section>
       <Img src={img09} alt="" />
       <h2>Small Projects Realised with SCRUM</h2>
+      <p>
+        We will achieve some of our objectives by help of organising ourselves
+        in an agile manner.
+      </p>
     </Section>
   </Container>
 )
