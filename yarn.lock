@@ -3940,9 +3940,9 @@ gatsby-cli@^1.1.50:
     yargs "^8.0.2"
     yurnalist "^0.2.1"
 
-gatsby-image@^1.0.45:
-  version "1.0.45"
-  resolved "https://registry.yarnpkg.com/gatsby-image/-/gatsby-image-1.0.45.tgz#2b909e00dbdd6386872a1a6909d39ded49930ac4"
+gatsby-image@^1.0.46:
+  version "1.0.46"
+  resolved "https://registry.yarnpkg.com/gatsby-image/-/gatsby-image-1.0.46.tgz#c01f791eec5c1070a99e33ad04973c3f2818f778"
   dependencies:
     babel-runtime "^6.26.0"
     prop-types "^15.6.0"
@@ -3996,11 +3996,12 @@ gatsby-plugin-sharp@^1.6.42:
     sharp "^0.20.0"
     svgo "^0.7.2"
 
-gatsby-plugin-sitemap@^1.2.20:
-  version "1.2.20"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-sitemap/-/gatsby-plugin-sitemap-1.2.20.tgz#7166e5d59becfa120aaa5f3ad46ecacf4e1f9ac2"
+gatsby-plugin-sitemap@^1.2.21:
+  version "1.2.21"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-sitemap/-/gatsby-plugin-sitemap-1.2.21.tgz#f3503a7c6f3e848b2b58427aaaf6b22da57a243a"
   dependencies:
     babel-runtime "^6.26.0"
+    minimatch "^3.0.4"
     sitemap "^1.12.0"
 
 gatsby-plugin-styled-components@^2.0.11:
@@ -4068,9 +4069,9 @@ gatsby-remark-smartypants@^1.4.12:
     retext-smartypants "^2.0.0"
     unist-util-visit "^1.1.1"
 
-gatsby-source-filesystem@^1.5.29:
-  version "1.5.29"
-  resolved "https://registry.yarnpkg.com/gatsby-source-filesystem/-/gatsby-source-filesystem-1.5.29.tgz#27efb1214d8a326f7a1cb8f0cdee579f96a2be69"
+gatsby-source-filesystem@^1.5.31:
+  version "1.5.31"
+  resolved "https://registry.yarnpkg.com/gatsby-source-filesystem/-/gatsby-source-filesystem-1.5.31.tgz#9845004ec8ecb14cf2ee7bc41403a6ca9504951b"
   dependencies:
     babel-cli "^6.26.0"
     babel-runtime "^6.26.0"
@@ -4084,9 +4085,9 @@ gatsby-source-filesystem@^1.5.29:
     slash "^1.0.0"
     valid-url "^1.0.9"
 
-gatsby-transformer-remark@^1.7.39:
-  version "1.7.39"
-  resolved "https://registry.yarnpkg.com/gatsby-transformer-remark/-/gatsby-transformer-remark-1.7.39.tgz#1a3e2fcba317c379466ed39cfb1273c5b2737c62"
+gatsby-transformer-remark@^1.7.40:
+  version "1.7.40"
+  resolved "https://registry.yarnpkg.com/gatsby-transformer-remark/-/gatsby-transformer-remark-1.7.40.tgz#199296ba084c4931be91e5637a7eca13711f212e"
   dependencies:
     babel-runtime "^6.26.0"
     bluebird "^3.5.0"
@@ -4109,9 +4110,9 @@ gatsby-transformer-remark@^1.7.39:
     unist-util-select "^1.5.0"
     unist-util-visit "^1.1.1"
 
-gatsby@^1.9.248:
-  version "1.9.248"
-  resolved "https://registry.yarnpkg.com/gatsby/-/gatsby-1.9.248.tgz#1bcc7e4267682cc779b8b5c33d8fb29f31d5f01b"
+gatsby@^1.9.250:
+  version "1.9.250"
+  resolved "https://registry.yarnpkg.com/gatsby/-/gatsby-1.9.250.tgz#e0d25bfad6a95e472c109db7da0f4e3a1e1c28f4"
   dependencies:
     async "^2.1.2"
     babel-code-frame "^6.22.0"
