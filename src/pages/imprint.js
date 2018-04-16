@@ -35,6 +35,7 @@ const ImprintPage = () => (
         <li>Olga Guryanova</li>
         <li>Samuel Zeller</li>
         <li>William Bout</li>
+        <li>Jacek Dylag</li>
       </ul>
 
       <p />
