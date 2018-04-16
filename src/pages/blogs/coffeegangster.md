@@ -14,7 +14,7 @@ Welcome to my blog. I hope you will read blog posts and --- contribute yourself.
 
 >(source: Fika: [The Art of the Swedish Coffee Break] (https://www.thekitchn.com/what-in-the-world-is-fika-an-intro-to-the-swedish-coffee-break-the-art-of-fika-219297))
 
-###-- Clara 
+###-- Clara & La Helen
 
 
 _Photo creds: 
